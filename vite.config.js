@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "https://gittm527.github.io/todolist-reactjs/my-react/"
+  base: "https://gittm527.github.io/react-todolist/"
 })
